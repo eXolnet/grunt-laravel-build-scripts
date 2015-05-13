@@ -1,0 +1,32 @@
+{
+  "name": "grunt-laravel-build-scripts",
+  "version": "0.1.0",
+  "description": "grunt-laravel-build-scripts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt-laravel-build-scripts"
+  ],
+  "author": "exolnet.com",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.9.0",
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-concat": "~0.5.1",
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt-contrib-less": "~1.0.0",
+    "grunt-contrib-symlink": "~0.3.0",
+    "grunt-contrib-uglify": "~0.8.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-ng-annotate": "~0.4.0",
+    "grunt-mocha-test": "~0.12.7",
+    "grunt-notify": "~0.4.1",
+    "jshint-stylish": "~1.0.1",
+    "jit-grunt": "~0.9.1",
+    "lodash": "~3.6.0",
+    "moment": "~2.9.0",
+    "time-grunt": "~1.1.0"
+  }
+}
